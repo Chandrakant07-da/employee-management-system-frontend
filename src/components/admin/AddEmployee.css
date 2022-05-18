@@ -1,0 +1,21 @@
+.add-employee {
+  width: 70%;
+  margin-inline: auto;
+}
+
+.add-employee form input{
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
+.add-employee form button {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  background-color: rgb(71, 208, 246);
+
+}

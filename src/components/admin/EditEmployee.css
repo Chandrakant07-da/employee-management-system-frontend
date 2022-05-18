@@ -1,0 +1,22 @@
+.edit-employee {
+  width: 70%;
+  margin-inline: auto;
+  align-items: center;
+}
+
+.edit-employee form input{
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
+.edit-employee form button {
+  display: block;
+  width: 50%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  background-color: rgb(71, 208, 246);
+
+}

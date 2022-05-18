@@ -1,0 +1,22 @@
+.admin-dashboard {
+  width: 70%;
+  margin-inline: auto;
+}
+
+.admin-dashboard h1 {
+  text-align: center;
+}
+
+.employee-details,
+.employee {
+  background-color: azure;
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr 2fr 2fr;
+  margin-bottom: 2rem;
+}
+
+.edit,
+.delete {
+     color: blue;
+  cursor: pointer;
+}

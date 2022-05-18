@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body{
+     display:block;
+     margin: auto;
+     padding: 1%;
+         
+    background-image: linear-gradient(to right, rgb(255, 0, 115), rgb(39, 254, 43),rgb(178, 70, 178));     
+  }

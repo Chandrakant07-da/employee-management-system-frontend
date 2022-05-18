@@ -1,0 +1,22 @@
+.title {
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+}
+
+.button {
+  text-decoration: none;
+  display: block;
+  background-color: #adff42;
+  color: #9e0202;
+  text-align: center;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+  font-size: 22px;
+  border-radius: 5px;
+  width: 40%;
+
+}
